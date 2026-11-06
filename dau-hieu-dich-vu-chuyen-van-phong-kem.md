@@ -1,5 +1,6 @@
 ---
 title: "Dấu hiệu dịch vụ chuyển văn phòng kém chất lượng"
+url: "https://chuyen-van-phong.onrender.com/dau-hieu-dich-vu-chuyen-van-phong-kem/"
 description: "5 dấu hiệu dịch vụ chuyển văn phòng kém chất lượng: báo giá không khảo sát, thiếu hợp đồng, giá mở đầu quá thấp… và cách kiểm tra trước khi đặt cọc."
 date_published: "2026-11-06"
 date_modified: "2026-11-06"
@@ -9,7 +10,7 @@ author: "Ban biên tập Vận Tải Hải Như"
 
 Dịch vụ chuyển văn phòng kém chất lượng thường lộ dấu hiệu ngay từ lúc báo giá: không khảo sát, không có hợp đồng hoặc hóa đơn, thông tin pháp lý mơ hồ, giá mở đầu rất thấp và cam kết chỉ nói miệng. Nhận ra các dấu hiệu này trước khi đặt cọc giúp bạn đổi đơn vị khi chưa mất tiền và chưa chốt lịch với tòa nhà.
 
-![5 dấu hiệu dịch vụ chuyển văn phòng kém chất lượng](img/dau-hieu-dich-vu-chuyen-van-phong-kem-1.webp)
+![5 dấu hiệu dịch vụ chuyển văn phòng kém chất lượng](https://chuyen-van-phong.onrender.com/img/dau-hieu-dich-vu-chuyen-van-phong-kem-1.webp)
 
 ## Báo giá qua điện thoại, không khảo sát
 
@@ -29,7 +30,7 @@ Báo giá qua điện thoại chỉ nên dùng để ước lượng. Hãy yêu 
 
 Mức "giá từ…" trong quảng cáo thường chỉ là cước mở cửa cho quãng đường đầu tiên của một loại xe nhỏ, chưa gồm nhân công bốc xếp, vật tư hay tháo lắp. Đó không phải giá trọn gói cho cả văn phòng.
 
-Giá thấp không xấu nếu phạm vi công việc rõ ràng. Vấn đề nằm ở báo giá không tách dòng, khiến bạn không biết khoản nào sẽ cộng thêm. Cách tách và quy đổi báo giá có trong bài [cách đọc và so sánh báo giá chuyển văn phòng](so-sanh-bao-gia-chuyen-van-phong/).
+Giá thấp không xấu nếu phạm vi công việc rõ ràng. Vấn đề nằm ở báo giá không tách dòng, khiến bạn không biết khoản nào sẽ cộng thêm. Cách tách và quy đổi báo giá có trong bài [cách đọc và so sánh báo giá chuyển văn phòng](https://chuyen-van-phong.onrender.com/so-sanh-bao-gia-chuyen-van-phong/).
 
 ## Thông tin nhận diện không rõ ràng
 
@@ -41,7 +42,7 @@ Chỉ liên hệ qua số điện thoại và địa chỉ đơn vị công bố
 
 Những câu như "không phát sinh", "bồi thường 100%" hay "xong trong một buổi" chỉ có giá trị khi được ghi trong hợp đồng, kèm điều kiện áp dụng. "Bồi thường 100%" cần nói rõ 100% của giá trị nào: giá mua, giá thị trường tại thời điểm chuyển hay giá trị khai báo trong danh mục tài sản.
 
-Danh sách điều khoản nên có để biến cam kết miệng thành cam kết bằng văn bản nằm trong bài [hợp đồng chuyển văn phòng trọn gói: điều khoản cần có](hop-dong-chuyen-van-phong-tron-goi/).
+Danh sách điều khoản nên có để biến cam kết miệng thành cam kết bằng văn bản nằm trong bài [hợp đồng chuyển văn phòng trọn gói: điều khoản cần có](https://chuyen-van-phong.onrender.com/hop-dong-chuyen-van-phong-tron-goi/).
 
 ## Cách kiểm tra trước khi đặt cọc
 
@@ -54,4 +55,4 @@ Danh sách điều khoản nên có để biến cam kết miệng thành cam k�
 | Đặt cọc | Mức cọc và điều kiện hoàn cọc ghi trong hợp đồng; chuyển khoản tới tài khoản đúng tên đơn vị |
 | Liên hệ | Số điện thoại, địa chỉ khớp với thông tin công bố của đơn vị |
 
-Đơn vị qua được cả sáu mục kiểm tra mới nên đưa vào bước chấm điểm trong [quy trình chọn công ty chuyển văn phòng trọn gói](./).
+Đơn vị qua được cả sáu mục kiểm tra mới nên đưa vào bước chấm điểm trong [quy trình chọn công ty chuyển văn phòng trọn gói](https://chuyen-van-phong.onrender.com/).

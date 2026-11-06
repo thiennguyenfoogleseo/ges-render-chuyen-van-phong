@@ -1,5 +1,6 @@
 ---
 title: "Cách chọn công ty chuyển văn phòng trọn gói"
+url: "https://chuyen-van-phong.onrender.com/"
 description: "Cách chọn công ty chuyển văn phòng trọn gói theo 5 bước: khảo sát, so báo giá cùng phạm vi, đọc hợp đồng, kiểm tra bồi thường và chấm điểm 100 điểm."
 date_published: "2026-11-06"
 date_modified: "2026-11-06"
@@ -11,7 +12,7 @@ Chọn công ty chuyển văn phòng trọn gói là so sánh các đơn vị th
 
 Bài này gom quy trình chọn đơn vị thành 5 bước và một bảng chấm điểm 100 điểm. Mỗi bước có trang hướng dẫn chi tiết riêng để bạn đi sâu khi cần.
 
-![Sơ đồ 5 bước chọn công ty chuyển văn phòng trọn gói](img/trang-chu-1.webp)
+![Sơ đồ 5 bước chọn công ty chuyển văn phòng trọn gói](https://chuyen-van-phong.onrender.com/img/trang-chu-1.webp)
 
 ## Chọn công ty chuyển văn phòng gồm 5 bước
 
@@ -27,20 +28,20 @@ Quy trình chọn đơn vị nên bắt đầu từ 2–4 tuần trước ngày 
 
 Một đơn vị chuyển văn phòng đáng tin cậy chứng minh được sáu điều trước khi bạn đặt cọc: tư cách pháp lý rõ ràng, khảo sát thực tế, báo giá tách dòng, nhân lực và phương tiện phù hợp, hợp đồng có điều khoản bồi thường, và kinh nghiệm với văn phòng cùng quy mô. Mỗi tiêu chí cần một bằng chứng cụ thể, ví dụ mã số thuế tra cứu được hay danh mục tài sản đính kèm hợp đồng.
 
-Cách kiểm tra từng tiêu chí và câu hỏi nên đặt cho đơn vị được trình bày trong bài [tiêu chí chọn công ty chuyển văn phòng](tieu-chi-chon-cong-ty-chuyen-van-phong/).
+Cách kiểm tra từng tiêu chí và câu hỏi nên đặt cho đơn vị được trình bày trong bài [tiêu chí chọn công ty chuyển văn phòng](https://chuyen-van-phong.onrender.com/tieu-chi-chon-cong-ty-chuyen-van-phong/).
 
 ## Đọc báo giá: những dòng phải có
 
 Một báo giá chuyển văn phòng dùng được để so sánh phải ghi rõ loại xe và số chuyến, số nhân công, vật tư đóng gói, hạng mục tháo lắp, các phụ phí có thể phát sinh và giá đã gồm VAT hay chưa. Báo giá chỉ có một con số tổng thì không cho bạn biết khoản nào đã gồm, khoản nào sẽ tính thêm vào ngày chuyển.
 
-Hai báo giá chỉ so được khi cùng phạm vi công việc. Cách quy đổi và mẫu bảng so sánh ba đơn vị có trong bài [so sánh báo giá chuyển văn phòng](so-sanh-bao-gia-chuyen-van-phong/).
+Hai báo giá chỉ so được khi cùng phạm vi công việc. Cách quy đổi và mẫu bảng so sánh ba đơn vị có trong bài [so sánh báo giá chuyển văn phòng](https://chuyen-van-phong.onrender.com/so-sanh-bao-gia-chuyen-van-phong/).
 
 ## Hợp đồng, đặt cọc và bồi thường
 
 Hợp đồng chuyển văn phòng nên có danh mục tài sản đính kèm, mức đặt cọc, điều kiện thay đổi giá, cách nghiệm thu và mức bồi thường khi mất mát hoặc hư hỏng. Cam kết như "không phát sinh" hay "bồi thường 100%" chỉ có giá trị khi được ghi trong hợp đồng, kèm cách xác định giá trị tài sản.
 
-- Danh sách điều khoản cần có và dấu hiệu một hợp đồng còn thiếu: xem [hợp đồng chuyển văn phòng trọn gói](hop-dong-chuyen-van-phong-tron-goi/).
-- Trách nhiệm theo pháp luật, bằng chứng cần giữ và quy trình khi phát hiện hư hỏng: xem [bồi thường hư hỏng khi chuyển văn phòng](boi-thuong-hu-hong-khi-chuyen-van-phong/).
+- Danh sách điều khoản cần có và dấu hiệu một hợp đồng còn thiếu: xem [hợp đồng chuyển văn phòng trọn gói](https://chuyen-van-phong.onrender.com/hop-dong-chuyen-van-phong-tron-goi/).
+- Trách nhiệm theo pháp luật, bằng chứng cần giữ và quy trình khi phát hiện hư hỏng: xem [bồi thường hư hỏng khi chuyển văn phòng](https://chuyen-van-phong.onrender.com/boi-thuong-hu-hong-khi-chuyen-van-phong/).
 
 ## Dấu hiệu nên tránh
 
@@ -51,7 +52,7 @@ Bốn dấu hiệu cho thấy nên dừng lại trước khi đặt cọc:
 - giá mở đầu rất thấp nhưng không nói rõ gồm những gì;
 - cam kết chỉ nói miệng, không ghi vào văn bản.
 
-Cách kiểm tra từng dấu hiệu có trong bài [dấu hiệu dịch vụ chuyển văn phòng kém chất lượng](dau-hieu-dich-vu-chuyen-van-phong-kem/).
+Cách kiểm tra từng dấu hiệu có trong bài [dấu hiệu dịch vụ chuyển văn phòng kém chất lượng](https://chuyen-van-phong.onrender.com/dau-hieu-dich-vu-chuyen-van-phong-kem/).
 
 ## Bảng chấm điểm để so sánh 3 đơn vị
 
@@ -84,8 +85,8 @@ Nên chốt đơn vị trước ngày chuyển khoảng 1–2 tuần, sau khi đ
 
 ## Danh sách bài
 
-- [Tiêu chí đánh giá công ty chuyển văn phòng uy tín](tieu-chi-chon-cong-ty-chuyen-van-phong/): 6 tiêu chí đánh giá công ty chuyển văn phòng uy tín: pháp lý, khảo sát, báo giá, nhân lực, hợp đồng bồi thường, kinh nghiệm – kèm câu hỏi và bảng chấm điểm.
-- [Cách đọc và so sánh báo giá chuyển văn phòng](so-sanh-bao-gia-chuyen-van-phong/): Cách đọc báo giá chuyển văn phòng: 7 dòng phải có, cách quy 3 báo giá về cùng phạm vi, câu hỏi khi khảo sát và mẫu bảng so sánh ba đơn vị.
-- [Dấu hiệu dịch vụ chuyển văn phòng kém chất lượng](dau-hieu-dich-vu-chuyen-van-phong-kem/): 5 dấu hiệu dịch vụ chuyển văn phòng kém chất lượng: báo giá không khảo sát, thiếu hợp đồng, giá mở đầu quá thấp… và cách kiểm tra trước khi đặt cọc.
-- [Hợp đồng chuyển văn phòng trọn gói: điều khoản cần có](hop-dong-chuyen-van-phong-tron-goi/): Hợp đồng chuyển văn phòng trọn gói cần có gì: danh mục tài sản, giá và VAT, đặt cọc, phát sinh, bồi thường, nghiệm thu – kèm checklist trước khi ký.
-- [Bồi thường hư hỏng, mất mát khi chuyển văn phòng](boi-thuong-hu-hong-khi-chuyen-van-phong/): Bồi thường khi chuyển văn phòng làm mất, hỏng tài sản: trách nhiệm theo Bộ luật Dân sự 2015, bằng chứng cần giữ, bảo hiểm và quy trình khiếu nại.
+- [Tiêu chí đánh giá công ty chuyển văn phòng uy tín](https://chuyen-van-phong.onrender.com/tieu-chi-chon-cong-ty-chuyen-van-phong/): 6 tiêu chí đánh giá công ty chuyển văn phòng uy tín: pháp lý, khảo sát, báo giá, nhân lực, hợp đồng bồi thường, kinh nghiệm – kèm câu hỏi và bảng chấm điểm.
+- [Cách đọc và so sánh báo giá chuyển văn phòng](https://chuyen-van-phong.onrender.com/so-sanh-bao-gia-chuyen-van-phong/): Cách đọc báo giá chuyển văn phòng: 7 dòng phải có, cách quy 3 báo giá về cùng phạm vi, câu hỏi khi khảo sát và mẫu bảng so sánh ba đơn vị.
+- [Dấu hiệu dịch vụ chuyển văn phòng kém chất lượng](https://chuyen-van-phong.onrender.com/dau-hieu-dich-vu-chuyen-van-phong-kem/): 5 dấu hiệu dịch vụ chuyển văn phòng kém chất lượng: báo giá không khảo sát, thiếu hợp đồng, giá mở đầu quá thấp… và cách kiểm tra trước khi đặt cọc.
+- [Hợp đồng chuyển văn phòng trọn gói: điều khoản cần có](https://chuyen-van-phong.onrender.com/hop-dong-chuyen-van-phong-tron-goi/): Hợp đồng chuyển văn phòng trọn gói cần có gì: danh mục tài sản, giá và VAT, đặt cọc, phát sinh, bồi thường, nghiệm thu – kèm checklist trước khi ký.
+- [Bồi thường hư hỏng, mất mát khi chuyển văn phòng](https://chuyen-van-phong.onrender.com/boi-thuong-hu-hong-khi-chuyen-van-phong/): Bồi thường khi chuyển văn phòng làm mất, hỏng tài sản: trách nhiệm theo Bộ luật Dân sự 2015, bằng chứng cần giữ, bảo hiểm và quy trình khiếu nại.

@@ -1,5 +1,6 @@
 ---
 title: "Hợp đồng chuyển văn phòng trọn gói: điều khoản cần có"
+url: "https://chuyen-van-phong.onrender.com/hop-dong-chuyen-van-phong-tron-goi/"
 description: "Hợp đồng chuyển văn phòng trọn gói cần có gì: danh mục tài sản, giá và VAT, đặt cọc, phát sinh, bồi thường, nghiệm thu – kèm checklist trước khi ký."
 date_published: "2026-11-06"
 date_modified: "2026-11-06"
@@ -11,7 +12,7 @@ Hợp đồng chuyển văn phòng trọn gói ghi lại việc bên cung cấp 
 
 Điều khoản rõ ràng giúp hai bên xử lý phát sinh, chậm tiến độ và hư hỏng theo văn bản thay vì tranh luận tại hiện trường. Dưới đây là sáu nhóm điều khoản nên có và cách nhận ra hợp đồng còn thiếu.
 
-![Checklist 7 điều khoản cần có trong hợp đồng chuyển văn phòng](img/hop-dong-chuyen-van-phong-tron-goi-1.webp)
+![Checklist 7 điều khoản cần có trong hợp đồng chuyển văn phòng](https://chuyen-van-phong.onrender.com/img/hop-dong-chuyen-van-phong-tron-goi-1.webp)
 
 ## Phạm vi công việc và danh mục tài sản
 
@@ -41,7 +42,7 @@ Hợp đồng không có điều khoản phát sinh không có nghĩa là sẽ k
 
 Điều khoản bồi thường cần trả lời ba câu hỏi: bồi thường khi nào, theo giá trị nào và trong thời hạn nào. Một mẫu hợp đồng phổ biến quy định bên cung cấp bồi thường hư hỏng hoặc mất mát theo giá thị trường tại thời điểm vận chuyển. Cách khác là bồi thường theo giá trị khai báo trong danh mục tài sản.
 
-Điều khoản phạt vi phạm xử lý chậm tiến độ hoặc hủy hợp đồng. Ví dụ, mẫu hợp đồng nói trên quy định nếu bên cung cấp chậm hơn 1 ngày mà không thực hiện thì hoàn trả tiền cọc và bồi thường thêm một khoản bằng tiền cọc, trừ khi hai bên thỏa thuận khác. Trách nhiệm theo pháp luật và quy trình khiếu nại có trong bài [bồi thường hư hỏng khi chuyển văn phòng](boi-thuong-hu-hong-khi-chuyen-van-phong/).
+Điều khoản phạt vi phạm xử lý chậm tiến độ hoặc hủy hợp đồng. Ví dụ, mẫu hợp đồng nói trên quy định nếu bên cung cấp chậm hơn 1 ngày mà không thực hiện thì hoàn trả tiền cọc và bồi thường thêm một khoản bằng tiền cọc, trừ khi hai bên thỏa thuận khác. Trách nhiệm theo pháp luật và quy trình khiếu nại có trong bài [bồi thường hư hỏng khi chuyển văn phòng](https://chuyen-van-phong.onrender.com/boi-thuong-hu-hong-khi-chuyen-van-phong/).
 
 ## Nghiệm thu, thanh lý và giải quyết tranh chấp
 
@@ -59,4 +60,4 @@ Nghiệm thu là bước đối chiếu tài sản tại văn phòng mới với
 | Bồi thường, phạt | Căn cứ giá trị, thời hạn khiếu nại, mức phạt | Chỉ ghi "bồi thường nếu hư hỏng" |
 | Nghiệm thu, tranh chấp | Biên bản, cách giải quyết | Không có biên bản nghiệm thu |
 
-Bạn có thể đối chiếu với một [mẫu hợp đồng chuyển nhà, văn phòng trọn gói](https://luatduonggia.vn/phap-luat/mau-hop-dong-chuyen-nha-van-phong-tron-goi-chi-tiet-nhat/) để thấy cách các điều khoản được viết. Hợp đồng chỉ hứa hẹn bằng lời mà không có các điều khoản trên là một trong các [dấu hiệu dịch vụ chuyển văn phòng kém chất lượng](dau-hieu-dich-vu-chuyen-van-phong-kem/). Đọc hợp đồng là bước 4 trong [quy trình chọn công ty chuyển văn phòng trọn gói](./).
+Bạn có thể đối chiếu với một [mẫu hợp đồng chuyển nhà, văn phòng trọn gói](https://luatduonggia.vn/phap-luat/mau-hop-dong-chuyen-nha-van-phong-tron-goi-chi-tiet-nhat/) để thấy cách các điều khoản được viết. Hợp đồng chỉ hứa hẹn bằng lời mà không có các điều khoản trên là một trong các [dấu hiệu dịch vụ chuyển văn phòng kém chất lượng](https://chuyen-van-phong.onrender.com/dau-hieu-dich-vu-chuyen-van-phong-kem/). Đọc hợp đồng là bước 4 trong [quy trình chọn công ty chuyển văn phòng trọn gói](https://chuyen-van-phong.onrender.com/).

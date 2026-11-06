@@ -1,5 +1,6 @@
 ---
 title: "Tiêu chí đánh giá công ty chuyển văn phòng uy tín"
+url: "https://chuyen-van-phong.onrender.com/tieu-chi-chon-cong-ty-chuyen-van-phong/"
 description: "6 tiêu chí đánh giá công ty chuyển văn phòng uy tín: pháp lý, khảo sát, báo giá, nhân lực, hợp đồng bồi thường, kinh nghiệm – kèm câu hỏi và bảng chấm điểm."
 date_published: "2026-11-06"
 date_modified: "2026-11-06"
@@ -11,7 +12,7 @@ Một công ty chuyển văn phòng uy tín là đơn vị đưa ra được b�
 
 Mỗi tiêu chí dưới đây đi kèm câu hỏi nên đặt và bằng chứng nên thấy, để bạn chấm điểm các đơn vị theo cùng một cách.
 
-![Bảng chấm điểm 6 tiêu chí đánh giá công ty chuyển văn phòng, tổng 100 điểm](img/tieu-chi-chon-cong-ty-chuyen-van-phong-1.webp)
+![Bảng chấm điểm 6 tiêu chí đánh giá công ty chuyển văn phòng, tổng 100 điểm](https://chuyen-van-phong.onrender.com/img/tieu-chi-chon-cong-ty-chuyen-van-phong-1.webp)
 
 ## Pháp lý và hóa đơn
 
@@ -31,7 +32,7 @@ Khảo sát thực tế là bước đơn vị đến xem văn phòng cũ, văn 
 - thang máy, thang hàng hoặc thang bộ ở hai đầu, khoảng cách từ chỗ đỗ xe tới cửa;
 - quy định của ban quản lý tòa nhà về khung giờ và bảo hộ sàn.
 
-Đơn vị chỉ báo giá qua điện thoại không thể biết những chi tiết này, nên rủi ro phát sinh nằm ở phía bạn. Các dòng báo giá nên có sau khảo sát được liệt kê trong bài [cách đọc và so sánh báo giá chuyển văn phòng](so-sanh-bao-gia-chuyen-van-phong/).
+Đơn vị chỉ báo giá qua điện thoại không thể biết những chi tiết này, nên rủi ro phát sinh nằm ở phía bạn. Các dòng báo giá nên có sau khảo sát được liệt kê trong bài [cách đọc và so sánh báo giá chuyển văn phòng](https://chuyen-van-phong.onrender.com/so-sanh-bao-gia-chuyen-van-phong/).
 
 ## Nhân lực, xe và vật tư
 
@@ -44,7 +45,7 @@ Năng lực thực hiện thể hiện qua số nhân công, người phụ trá
 
 Hợp đồng là nơi xác định ai chịu trách nhiệm khi tài sản bị mất hoặc hư hỏng. Một hợp đồng đủ dùng có danh mục tài sản đính kèm, mức bồi thường và cách xác định giá trị tài sản, điều kiện thay đổi giá, cách nghiệm thu và thời hạn khiếu nại.
 
-Hãy xin hợp đồng mẫu ngay khi nhận báo giá để đọc trước. Trách nhiệm bồi thường theo pháp luật và bằng chứng cần giữ được trình bày trong bài [bồi thường hư hỏng, mất mát khi chuyển văn phòng](boi-thuong-hu-hong-khi-chuyen-van-phong/).
+Hãy xin hợp đồng mẫu ngay khi nhận báo giá để đọc trước. Trách nhiệm bồi thường theo pháp luật và bằng chứng cần giữ được trình bày trong bài [bồi thường hư hỏng, mất mát khi chuyển văn phòng](https://chuyen-van-phong.onrender.com/boi-thuong-hu-hong-khi-chuyen-van-phong/).
 
 ## Kinh nghiệm với văn phòng tương tự
 
@@ -68,4 +69,4 @@ Nhiều văn phòng chọn chuyển vào cuối tuần hoặc buổi tối để
 | Kinh nghiệm tương tự | 10 | Có ví dụ cùng quy mô và người tham chiếu | Không có ví dụ |
 | Lịch làm việc | 10 | Nhận khung giờ bạn cần, phí ghi rõ | Không nhận khung giờ bạn cần |
 
-Bảng này là một bước trong [quy trình 5 bước chọn công ty chuyển văn phòng](./). Chấm cho ít nhất 3 đơn vị rồi mới so giá, để giá không che mất các tiêu chí còn lại.
+Bảng này là một bước trong [quy trình 5 bước chọn công ty chuyển văn phòng](https://chuyen-van-phong.onrender.com/). Chấm cho ít nhất 3 đơn vị rồi mới so giá, để giá không che mất các tiêu chí còn lại.

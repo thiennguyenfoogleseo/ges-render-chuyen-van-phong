@@ -1,5 +1,6 @@
 ---
 title: "Bồi thường hư hỏng, mất mát khi chuyển văn phòng"
+url: "https://chuyen-van-phong.onrender.com/boi-thuong-hu-hong-khi-chuyen-van-phong/"
 description: "Bồi thường khi chuyển văn phòng làm mất, hỏng tài sản: trách nhiệm theo Bộ luật Dân sự 2015, bằng chứng cần giữ, bảo hiểm và quy trình khiếu nại."
 date_published: "2026-11-06"
 date_modified: "2026-11-06"
@@ -11,7 +12,7 @@ Khi tài sản bị mất hoặc hư hỏng trong lúc vận chuyển, bên vậ
 
 Bài này giải thích trách nhiệm theo pháp luật và theo hợp đồng, bằng chứng cần chuẩn bị trước ngày chuyển, câu hỏi về bảo hiểm hàng hóa và quy trình khi phát hiện hư hỏng. Nội dung mang tính thông tin, không thay cho tư vấn pháp lý cho trường hợp cụ thể.
 
-![Quy trình 4 bước yêu cầu bồi thường khi chuyển văn phòng](img/boi-thuong-hu-hong-khi-chuyen-van-phong-1.webp)
+![Quy trình 4 bước yêu cầu bồi thường khi chuyển văn phòng](https://chuyen-van-phong.onrender.com/img/boi-thuong-hu-hong-khi-chuyen-van-phong-1.webp)
 
 ## Trách nhiệm theo pháp luật và theo hợp đồng
 
@@ -34,7 +35,7 @@ Bằng chứng có giá trị khi khiếu nại là bằng chứng được lậ
 3. **Đánh dấu đồ dễ vỡ:** dán nhãn trên thùng và ghi chú vào danh mục.
 4. **Người giám sát ở cả hai đầu:** một người ở văn phòng cũ, một người ở văn phòng mới để đối chiếu từng chuyến.
 
-Các bằng chứng này cũng là một phần trong [tiêu chí chọn công ty chuyển văn phòng](tieu-chi-chon-cong-ty-chuyen-van-phong/): đơn vị chuyên nghiệp thường chủ động đề nghị lập danh mục và biên bản.
+Các bằng chứng này cũng là một phần trong [tiêu chí chọn công ty chuyển văn phòng](https://chuyen-van-phong.onrender.com/tieu-chi-chon-cong-ty-chuyen-van-phong/): đơn vị chuyên nghiệp thường chủ động đề nghị lập danh mục và biên bản.
 
 ## Bảo hiểm hàng hóa
 
@@ -53,10 +54,10 @@ Nếu văn phòng có thiết bị giá trị cao mà đơn vị không có bả
 3. **Gửi yêu cầu bồi thường bằng văn bản** trong thời hạn hợp đồng quy định, kèm ảnh và danh mục.
 4. **Thương lượng; không thành thì giải quyết theo điều khoản tranh chấp** trong hợp đồng.
 
-Không ký biên bản nghiệm thu "đủ, nguyên vẹn" khi chưa kiểm tra xong. Các điều khoản bồi thường và nghiệm thu nên có trong hợp đồng được liệt kê trong bài [hợp đồng chuyển văn phòng trọn gói](hop-dong-chuyen-van-phong-tron-goi/).
+Không ký biên bản nghiệm thu "đủ, nguyên vẹn" khi chưa kiểm tra xong. Các điều khoản bồi thường và nghiệm thu nên có trong hợp đồng được liệt kê trong bài [hợp đồng chuyển văn phòng trọn gói](https://chuyen-van-phong.onrender.com/hop-dong-chuyen-van-phong-tron-goi/).
 
 ## Tài sản nên tự giữ, không giao vận chuyển chung
 
 Một số tài sản khó định giá hoặc khó thay thế nên do nhân viên công ty tự giữ và mang theo: tiền mặt, giấy tờ gốc quan trọng, con dấu, ổ cứng chứa dữ liệu nhạy cảm. Giảm số tài sản có rủi ro cao trong xe là cách đơn giản để giảm tranh chấp bồi thường.
 
-Bồi thường là một trong các tiêu chí của bảng chấm điểm trong [quy trình chọn công ty chuyển văn phòng trọn gói](./).
+Bồi thường là một trong các tiêu chí của bảng chấm điểm trong [quy trình chọn công ty chuyển văn phòng trọn gói](https://chuyen-van-phong.onrender.com/).

@@ -1,5 +1,6 @@
 ---
 title: "Cách đọc và so sánh báo giá chuyển văn phòng"
+url: "https://chuyen-van-phong.onrender.com/so-sanh-bao-gia-chuyen-van-phong/"
 description: "Cách đọc báo giá chuyển văn phòng: 7 dòng phải có, cách quy 3 báo giá về cùng phạm vi, câu hỏi khi khảo sát và mẫu bảng so sánh ba đơn vị."
 date_published: "2026-11-06"
 date_modified: "2026-11-06"
@@ -11,7 +12,7 @@ So sánh báo giá chuyển văn phòng chỉ có ý nghĩa khi các báo giá c
 
 Một báo giá rẻ hơn 20% có thể chỉ là báo giá bỏ bớt phần tháo lắp máy lạnh hoặc vật tư đóng gói. Bảng và câu hỏi dưới đây giúp bạn phát hiện điều đó trước khi ký.
 
-![7 dòng phải có trong báo giá chuyển văn phòng](img/so-sanh-bao-gia-chuyen-van-phong-1.webp)
+![7 dòng phải có trong báo giá chuyển văn phòng](https://chuyen-van-phong.onrender.com/img/so-sanh-bao-gia-chuyen-van-phong-1.webp)
 
 ## Các dòng bắt buộc trong báo giá
 
@@ -38,7 +39,7 @@ Ba báo giá thường khác nhau ở phạm vi nhiều hơn ở đơn giá. Quy
 3. Hỏi đơn vị giá của hạng mục còn thiếu, hoặc ước tính dựa trên báo giá có hạng mục đó.
 4. Cộng lại thành tổng "cùng phạm vi" rồi mới so sánh.
 
-Nếu một đơn vị không trả lời được giá của hạng mục thiếu, đó là tín hiệu cần cân nhắc. Giá mở đầu rất thấp nhưng không nói rõ gồm những gì là một trong các [dấu hiệu dịch vụ chuyển văn phòng kém chất lượng](dau-hieu-dich-vu-chuyen-van-phong-kem/).
+Nếu một đơn vị không trả lời được giá của hạng mục thiếu, đó là tín hiệu cần cân nhắc. Giá mở đầu rất thấp nhưng không nói rõ gồm những gì là một trong các [dấu hiệu dịch vụ chuyển văn phòng kém chất lượng](https://chuyen-van-phong.onrender.com/dau-hieu-dich-vu-chuyen-van-phong-kem/).
 
 ## Câu hỏi nên hỏi khi khảo sát
 
@@ -51,7 +52,7 @@ Nếu một đơn vị không trả lời được giá của hạng mục thi�
 - Đặt cọc bao nhiêu, phần còn lại thanh toán khi nào?
 - Khi tài sản hư hỏng, bồi thường theo cách nào?
 
-Câu trả lời cho các câu hỏi này cũng là dữ liệu để chấm điểm theo [tiêu chí chọn công ty chuyển văn phòng](tieu-chi-chon-cong-ty-chuyen-van-phong/).
+Câu trả lời cho các câu hỏi này cũng là dữ liệu để chấm điểm theo [tiêu chí chọn công ty chuyển văn phòng](https://chuyen-van-phong.onrender.com/tieu-chi-chon-cong-ty-chuyen-van-phong/).
 
 ## Mẫu bảng so sánh ba đơn vị
 
@@ -68,4 +69,4 @@ Câu trả lời cho các câu hỏi này cũng là dữ liệu để chấm đi
 | Đặt cọc / thanh toán |  |  |  |
 | Điều khoản bồi thường |  |  |  |
 
-Bảng so sánh giá là bước 3 trong [quy trình chọn công ty chuyển văn phòng trọn gói](./); sau bước này là đọc kỹ hợp đồng của đơn vị bạn định chọn.
+Bảng so sánh giá là bước 3 trong [quy trình chọn công ty chuyển văn phòng trọn gói](https://chuyen-van-phong.onrender.com/); sau bước này là đọc kỹ hợp đồng của đơn vị bạn định chọn.
